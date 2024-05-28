@@ -4,9 +4,9 @@
 
 ### Project Objectives:
 
-- Create a Customer Performance Report(https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf).
+- Create a Customer Performance Report[https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf].
 
-- Conduct a comprehensive comparison between Market Performance and Sales Targets(https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf).
+- Conduct a comprehensive comparison between Market Performance and Sales Targets[https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf].
 
 - Purpose of Sales Analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,9 +18,9 @@
 
 ### Project Objectives:
 
-- Create Profit and Loss (P&L) reports by Fiscal Year and Months(https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and Months(https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
+- Create Profit and Loss (P&L) reports by Fiscal Year and Months[https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf] and Months[https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf].
 
-- Create Profit and Loss (P&L) reports by Markets(https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+- Create Profit and Loss (P&L) reports by Markets[https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf].
 
 - Purpose of Financial Analytics: Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -44,8 +44,3 @@
 - Designing user-centric reports with empathy in mind.
 - Optimization of report generation through meticulous fine-tuning.
 - Developing a systematic approach to devising a report-building plan.
-
-
-
-
-
