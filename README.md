@@ -10,9 +10,11 @@
 
 - Purpose of Sales Analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
-- Importance of Analyzing Sales Data: Identify sales patterns and track key performance indicators (KPIs).
+- Importance of Analyzing Sales Data: 
+Identify sales patterns and track key performance indicators (KPIs).
 
-- Role of Reports: Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
+- Role of Reports: 
+Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 
 ## Finance Report:
 
@@ -22,11 +24,14 @@
 
 - Create Profit and Loss (P&L) reports by Markets[https://github.com/j-u-n-a-i-d/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf].
 
-- Purpose of Financial Analytics: Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
+- Purpose of Financial Analytics: 
+Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- Importance of Analyzing Financial Data: Aid in benchmarking against industry peers and previous periods, providing a foundation for budgeting and forecasting.
+- Importance of Analyzing Financial Data: 
+Aid in benchmarking against industry peers and previous periods, providing a foundation for budgeting and forecasting.
 
-- Role of Reports: Align financial planning with strategic goals and instill confidence in the organization's financial outlook.
+- Role of Reports: 
+Align financial planning with strategic goals and instill confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills:
 ## Technical Skills:
